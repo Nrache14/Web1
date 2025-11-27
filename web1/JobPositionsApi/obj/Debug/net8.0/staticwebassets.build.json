@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Mvr2G33stLTVPnoaiDwWSr+ul4MUaENvh7lUxzGL9DE=",
+  "Source": "JobPositionsApi",
+  "BasePath": "_content/JobPositionsApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
