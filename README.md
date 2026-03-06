@@ -29,5 +29,7 @@ The project is documented using Swagger (OpenAPI), which provides an interactive
 6. Open the Swagger documentation in your browser to explore the API endpoints.
 
 **Author**
+
 RACHELOU S. NEGRO
+
 Bachelor of Science in Information Technology
